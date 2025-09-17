@@ -3,6 +3,5 @@ title: "Emma"
 editor: visual
 ---
 
-- My pronouns are they/them
-- I have a younger brother and a younger sister
-- I had a research internship at the Yang Center in the Lab of Ornithology this summer
+-   I have a younger brother and a younger sister
+-   I had a research internship at the Yang Center in the Lab of Ornithology this summer
