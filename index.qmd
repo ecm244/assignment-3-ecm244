@@ -3,3 +3,5 @@ title: "Assignment 3 Website"
 ---
 
 ![I like whales](whale_image.png)
+
+-> This is Lara commenting!
